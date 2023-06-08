@@ -21,8 +21,8 @@ dependencies.lock
 .DS_Store
 
 # VS Code Settings
-.vscode/
-
+.vscode/*
+!.vscode/c_cpp_properties.json
 # Clion Settings
 *.idea/
 
